@@ -1,0 +1,57 @@
+# Copyright (C) 2021 Copyright (C) 2021 Nicolas ZABOURI   <info@inovea-conseil.com>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#
+# Générique
+#
+
+# Module label 'ModuleAtmoName'
+ModuleAtmoName = Atmo
+# Module description 'ModuleAtmoDesc'
+ModuleAtmoDesc = Description de Atmo
+
+#
+# Page d'administration
+#
+AtmoSetup = Configuration du module Atmo
+Settings = Réglages
+AtmoSetupPage = Page de configuration du module Atmo
+
+#
+# Page À propos
+#
+About = À propos
+AtmoAbout = À propos de Atmo
+AtmoAboutPage = Page à propos de Atmo
+
+#
+# Page d'exemple
+#
+MyPageName = Nom de ma page
+
+#
+# Box d'exemple
+#
+MyWidget = Mon widget
+MyWidgetDescription = Description de mon widget
+
+exportTitle=Type de facture et lignes de factures
+
+AtmoDepositInvoicePlatform=Dépôt facture sur plateforme
+AtmoSendInvoiceEmail=Envoi facture mail
+AtmoSendInvoiceCourrier=Envoi facture courrier
+
+TitleAdminColorInvoice=Couleur transmission facture
+TitleAdminColorThirdparty=Couleur type de tiers
